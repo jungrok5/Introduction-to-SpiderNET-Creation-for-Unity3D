@@ -11,14 +11,9 @@
 /*.userprefs
 /*.pidb
 /*.booproj
-SpiderNET #1/Client/Assembly-CSharp-vs.csproj
-SpiderNET #1/Client/Assembly-CSharp.csproj
-SpiderNET #1/Client/Client-csharp.sln
-SpiderNET #1/Client/Client-csharp.v11.suo
-SpiderNET #1/Client/Client.sln
-SpiderNET #1/Client/Client.userprefs
-SpiderNET #2/Client/Assembly-CSharp-vs.csproj
-SpiderNET #2/Client/Assembly-CSharp.csproj
-SpiderNET #2/Client/Client-csharp.sln
-SpiderNET #2/Client/Client-csharp.v11.suo
-SpiderNET #2/Client/Client.sln
+SpiderNET #[*]/Client/Assembly-CSharp-vs.csproj
+SpiderNET #[*]/Client/Assembly-CSharp.csproj
+SpiderNET #[*]/Client/Client-csharp.sln
+SpiderNET #[*]/Client/Client-csharp.v11.suo
+SpiderNET #[*]/Client/Client.sln
+SpiderNET #[*]/Client/Client.userprefs

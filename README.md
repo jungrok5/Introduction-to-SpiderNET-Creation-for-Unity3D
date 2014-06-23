@@ -1,6 +1,4 @@
-Introduction-to-SpiderNET-Creation-for-Unity3D
+Making the SpiderNET
 ==============================================
-
-SpiderNET production process
 
 http://blog.grok5.com/category/SpiderNET

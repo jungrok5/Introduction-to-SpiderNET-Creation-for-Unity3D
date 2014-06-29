@@ -17,5 +17,10 @@ namespace ExampleServer.Controllers
         {
             return data;
         }
+
+        public string EchoThreeParam(string data1, int data2, float data3)
+        {
+            return string.Format("data1={0}&data2={1}&data3={2}", data1, data2, data3);
+        }
     }
 }
